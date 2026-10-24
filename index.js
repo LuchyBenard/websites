@@ -1,7 +1,6 @@
-//console.log('Hello');
-//console.log('My name is Morgan');
+// variable = A container that stores a value.
+//            Behaves as if it were the value it contain
 
-//window.alert('This is an alert!');
-
-document.getElementById("myH1").textContent = 'Hello';
-document.getElementById("myP").textContent = 'I hate pizza';
+let fullName = "Morgan Codes";
+let age = 23;
+let student 
